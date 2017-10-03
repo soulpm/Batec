@@ -62,7 +62,8 @@
             placeholder="Usuario" name="usr" type="text" autofocus tabindex="1" >
             <input class="form-control" id="pwd" 
             placeholder="Clave" name="pwd" type="password" value="" tabindex="2">
-        </form>
+        <!-- hola mundo -->
+	</form>
         <div id="msgs"></div>
         </div>
       </div>
