@@ -62,11 +62,14 @@
             placeholder="Usuario" name="usr" type="text" autofocus tabindex="1" >
             <input class="form-control" id="pwd" 
             placeholder="Clave" name="pwd" type="password" value="" tabindex="2">
-        <!-- hola mundo -->
-	</form>
+        </form>
         <div id="msgs"></div>
         </div>
       </div>
     </div>
 </body>
 </html>
+  <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
